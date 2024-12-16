@@ -70,7 +70,6 @@ public class ATM {
 			 try {
 				Thread.sleep((long) 150000);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 
